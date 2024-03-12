@@ -1,7 +1,3 @@
-Sure, you can create a README file to explain the code. Here's a template for your README:
-
----
-
 # OTP Email Sender
 
 This Python script sends an email containing a one-time passcode (OTP) to a recipient fetched from a MySQL database.
@@ -69,7 +65,3 @@ The script will connect to the MySQL database, fetch the recipient's email addre
 - Ensure that the MySQL query in the script retrieves the correct information.
 - Handle exceptions and errors appropriately for robustness.
 - Consider using environment variables or secure methods for storing sensitive information like passwords.
-
----
-
-Feel free to customize this README according to your specific needs and add any additional information or instructions as necessary.
